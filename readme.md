@@ -14,13 +14,13 @@ Docker, you can use [Docker Machine](https://github.com/docker/machine) to
 get started.
 
 ```
-curl -s https://shipyard-project.com/deploy | bash -s
+curl -s https://northernsignal.com/deploy | bash -s
 ```
 
 For full options:
 
 ```
-curl -s https://shipyard-project.com/deploy | bash -s -- -h
+curl -s https://northernsignal.com.com/deploy | bash -s -- -h
 ```
 
 # Documentation
@@ -37,22 +37,3 @@ Everything in Shipyard is built around the Shipyard API.  It enables actions suc
 
 ## UI
 The Shipyard UI is a web interface to the Shipyard cluster.  It uses the Shipyard API for all interaction.  It is an AngularJS app that is served via the Controller.
-
-# Contributing
-
-## Controller
-To get a development environment you will need:
-
-* Go 1.4+
-* Node.js: (npm for bower to build the Angular frontend)
-
-Run the following:
-
-* install [Godep](https://github.com/tools/godep): `go get github.com/tools/godep`
-* run `npm install -g bower` to install bower
-* run `make build` to build the binary
-* run `make media` to build the media
-* run `./controller -h` for options
-
-# License
-Shipyard is licensed under the Apache License, Version 2.0. See LICENSE for full license text.
