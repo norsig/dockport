@@ -1,7 +1,7 @@
 # Dockport
 Docker Management for SignalOS based on [Shipyard](https://github.com/shipyard/shipyard)
 
-This is very much a work in progress.
+This is very much a work in progress... For production ready code, use [Shipyard](https://github.com/shipyard/shipyard)
 
 # Quick Start
 There is a deploy script provided on the Northern Signal website for quick
