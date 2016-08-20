@@ -1,6 +1,8 @@
 # Dockport
 Docker Management for SignalOS based on [Shipyard](https://github.com/shipyard/shipyard)
 
+[![Build Status](https://travis-ci.org/norsig/dockport.svg?branch=master)](https://travis-ci.org/norsig/dockport)
+
 This is very much a work in progress... For production ready code, use [Shipyard](https://github.com/shipyard/shipyard)
 
 # Quick Start
