@@ -16,6 +16,11 @@ get started.
 ```
 curl -s https://northernsignal.com/deploy | bash -s
 ```
+or
+```
+curl -s https://northernsignal.com/deploy | ash -s
+```
+if you are using SignalOS
 
 For full options:
 
