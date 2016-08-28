@@ -25,5 +25,5 @@ curl -s https://northernsignal.com/deploy | ash -s
 For full options:
 
 ```
-curl -s https://northernsignal.com.com/deploy | bash -s -- -h
+curl -s https://northernsignal.com/deploy | bash -s -- -h
 ```
